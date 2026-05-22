@@ -1,0 +1,7 @@
+{
+    "editor.inlineSuggest.enabled": true,
+"python.analysis.autoImportCompletions": true,
+"editor.quickSuggestions": {
+    "strings": true
+}
+}
